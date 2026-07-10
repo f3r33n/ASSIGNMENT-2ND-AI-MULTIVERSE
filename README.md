@@ -42,6 +42,10 @@ An upgraded AI chatbot built with **Python** and **Streamlit**, supporting multi
 
 ---
 
+GEMINI RESPONSE 
+<img width="1766" height="984" alt="Screenshot from 2026-07-10 16-55-12" src="https://github.com/user-attachments/assets/95e2862c-6d03-46af-86bd-b54a81cce14e" />
+
+
 ## 🛠️ Technologies Used
 
 - Python
