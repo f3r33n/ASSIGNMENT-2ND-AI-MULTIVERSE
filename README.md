@@ -46,6 +46,14 @@ GEMINI RESPONSE
 <img width="1766" height="984" alt="Screenshot from 2026-07-10 16-55-12" src="https://github.com/user-attachments/assets/95e2862c-6d03-46af-86bd-b54a81cce14e" />
 
 
+
+
+COHERE RESPONSE
+<img width="1768" height="984" alt="Screenshot from 2026-07-10 16-54-52" src="https://github.com/user-attachments/assets/783c09ab-456b-4169-b6d2-abd3bc9c978e" />
+
+
+
+
 ## 🛠️ Technologies Used
 
 - Python
