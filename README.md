@@ -1,5 +1,5 @@
 # 🤖 AI Multiverse
-THIS IS THE SECOND ASSIGMENT FOR MIRAI 9 THE AI MULTIVERSE)
+THIS IS THE SECOND ASSIGMENT FOR MIRAI ( THE AI MULTIVERSE)
 An upgraded AI chatbot built with **Python** and **Streamlit**, supporting multiple AI models and customizable chatbot personalities. This project demonstrates how to integrate different AI providers into a single, interactive web application.
 
 ---
