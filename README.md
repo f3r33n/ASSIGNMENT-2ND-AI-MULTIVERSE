@@ -108,5 +108,5 @@ This project helped explore:
 
 ## 📄 License
 
-This project was created for educational purposes as part of the **MirAI School of Technology AI Builder Internship 2026.
+This project was created for educational purposes as part of the MirAI School of Technology AI Builder Internship 2026.
 
