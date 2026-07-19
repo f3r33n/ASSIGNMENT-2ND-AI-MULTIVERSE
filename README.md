@@ -78,9 +78,7 @@ AI-Multiverse/
 ### Run the application
 
 streamlit run app2.py
-```
 
----
 
 ## 📖 How It Works
 
@@ -108,7 +106,7 @@ This project helped explore:
 
 
 
-### 📄 License
+## 📄 License
 
-This project was created for educational purposes as part of the **MirAI School of Technology AI Builder Internship 2026**.
+This project was created for educational purposes as part of the **MirAI School of Technology AI Builder Internship 2026.
 
