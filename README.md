@@ -103,6 +103,12 @@ This project helped explore:
 - Prompt engineering
 - Multi-model AI support
 - Building interactive web applications
+
+
+
+
+
+
 ## 📄 License
 
 This project was created for educational purposes as part of the **MirAI School of Technology AI Builder Internship 2026**.
